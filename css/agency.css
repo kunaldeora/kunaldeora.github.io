@@ -569,7 +569,31 @@ section#contact {
   background-color: #222222;
   background-image: url('../img/map-image.png');
   background-position: center;
+  background-repeat: repeat;
+}
+section#aside {
+
+  background-color: white;
+  background-image: url('../img/foot.jpg');
+  background-position:  center;
   background-repeat: no-repeat;
+
+}
+
+.myFont {
+    color: white;
+}
+.fa-music {
+    color: white;
+}
+.fa-user {
+    color: white;
+}
+.fa-desktop {
+    color: white;
+}
+.fa-line-chart {
+    color: white;
 }
 section#contact .section-heading {
   color: white;
