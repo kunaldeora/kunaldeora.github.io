@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5192648d-00b2-4068-8d4b-41894dc7dbb1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/agency.css" afterPath="$PROJECT_DIR$/css/agency.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +30,8 @@
       <file leaf-file-name="agency.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="579" column="23" lean-forward="false" selection-start-line="579" selection-start-column="23" selection-end-line="579" selection-end-column="23" />
+            <state relative-caret-position="254">
+              <caret line="576" column="36" lean-forward="false" selection-start-line="576" selection-start-column="36" selection-end-line="576" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -48,8 +48,8 @@
       <find>contactForm</find>
       <find>sec</find>
       <find>son</find>
-      <find>map</find>
       <find>lorem</find>
+      <find>map</find>
       <find>song</find>
     </findStrings>
   </component>
@@ -163,12 +163,12 @@
       <option name="presentableId" value="Default" />
       <updated>1503279685143</updated>
       <workItem from="1503279687471" duration="8554000" />
-      <workItem from="1503351275714" duration="16042000" />
+      <workItem from="1503351275714" duration="16685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24596000" />
+    <option name="totallyTimeSpent" value="25239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -222,8 +222,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="579" column="23" lean-forward="false" selection-start-line="579" selection-start-column="23" selection-end-line="579" selection-end-column="23" />
+        <state relative-caret-position="254">
+          <caret line="576" column="36" lean-forward="false" selection-start-line="576" selection-start-column="36" selection-end-line="576" selection-end-column="36" />
           <folding />
         </state>
       </provider>
